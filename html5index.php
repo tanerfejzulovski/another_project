@@ -13,8 +13,8 @@
 		</div>
 		<div id="main-menu">
 			<ul>
-				<li><a href="#">Main item 1</a></li>
-				<li><a href="#">Main item 2</a></li>
+				<li><a href="html5index.php">Main item 1</a></li>
+				<li><a href="about-us.php">Main item 2</a></li>
 				<li><a href="#">Main item 3</a></li>
 				<li><a href="#">Main item 4</a></li>
 				<li><a href="#">Main item 5</a></li>

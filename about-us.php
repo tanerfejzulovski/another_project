@@ -13,8 +13,8 @@
 		</div>
 		<div id="main-menu">
 			<ul>
-				<li><a href="#">Main item 1</a></li>
-				<li><a href="#">Main item 2</a></li>
+				<li><a href="html5index.php">Home</a></li>
+				<li><a href="about-us.php">About us</a></li>
 				<li><a href="#">Main item 3</a></li>
 				<li><a href="#">Main item 4</a></li>
 				<li><a href="#">Main item 5</a></li>
@@ -29,10 +29,10 @@
 			</div>
 			<div id="article">
 				<div class="div_content">				
-					<h1>Article title</h1>
-					<p>Article metadata</p>
-					<p>Article content..</p>
-					<footer>Article footer</footer>
+					<h1>About us title</h1>
+					<p>About us metadata</p>
+					<p>About us content..</p>
+					<footer>About us footer</footer>
 				</div>
 			</div>
 			<div class="sidebar-right">
