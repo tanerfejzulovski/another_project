@@ -22,7 +22,8 @@ h3, h1 {
   overflow: hidden; }
   #header h1 {
     color: #6C6E70;
-    margin: 40px; }
+    margin: 40px;
+    float: left; }
 
 #main-menu {
   background-color: #E2D893;
