@@ -22,7 +22,7 @@ h3, h1 {
     color: #6C6E70; }
 
 #main-menu {
-  background-color: #E2D893;
+  background-color: blue;
   height: 50px;
   margin-top: 20px; }
   #main-menu ul {
@@ -48,7 +48,7 @@ h3, h1 {
   min-height: 650px; }
 
 .three_boxes, .sidebar-left, #article, .sidebar-right {
-  background-color: #E2D893;
+  background-color: blue;
   height: 150px;
   margin-left: 0; }
 
@@ -70,7 +70,7 @@ h3, h1 {
 #footer {
   clear: both;
   height: 50px;
-  background-color: #E2D893;
+  background-color: blue;
   color: #6C6E70; }
   #footer span {
     float: right;
