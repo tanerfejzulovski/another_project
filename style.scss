@@ -59,12 +59,13 @@ h3, h1{
 	float: left;
 	min-height: 430px;
 	width: 230px;
+	margin-left: 20px;
 }
 
 #article{
 	@extend .three_boxes;
 	float: left;
-    margin-left: 30px;
+    margin-left: 12px;
     width: 435px;
 }
 
@@ -73,6 +74,7 @@ h3, h1{
 	float: right;
 	min-height: 430px;	
 	width: 230px;
+	margin-right: 20px;
 }
 
 #footer{
@@ -94,10 +96,10 @@ h3, h1{
 }
 
 .nesto{
-	@include new-div-here(90%, 220, $menu-background);
+	@include new-div-here(96%, 220, $menu-background);
 	clear: both;
 	float: left;
-	margin: 20px 45px;
+	margin: 20px 20px;
 
 };
 

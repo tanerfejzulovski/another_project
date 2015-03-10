@@ -55,17 +55,19 @@ h3, h1 {
 .sidebar-left {
   float: left;
   min-height: 430px;
-  width: 230px; }
+  width: 230px;
+  margin-left: 20px; }
 
 #article {
   float: left;
-  margin-left: 30px;
+  margin-left: 12px;
   width: 435px; }
 
 .sidebar-right {
   float: right;
   min-height: 430px;
-  width: 230px; }
+  width: 230px;
+  margin-right: 20px; }
 
 #footer {
   clear: both;
@@ -77,11 +79,11 @@ h3, h1 {
     margin: 15px 15px 0 0; }
 
 .nesto {
-  width: 90%;
+  width: 96%;
   height: 220;
   background: #E2D893;
   clear: both;
   float: left;
-  margin: 20px 45px; }
+  margin: 20px 20px; }
 
 /*# sourceMappingURL=style.css.map */
