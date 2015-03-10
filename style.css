@@ -13,7 +13,7 @@ h3, h1 {
 .container {
   width: 960px;
   margin: 0 auto;
-  background-color: #5C2D50; }
+  background-color: #F17D80; }
 
 #header {
   width: 100%;
@@ -22,7 +22,7 @@ h3, h1 {
     color: #fff; }
 
 #main-menu {
-  background-color: #737495;
+  background-color: #A2D7D8;
   height: 50px;
   margin-top: 20px; }
   #main-menu ul {
@@ -48,7 +48,7 @@ h3, h1 {
   min-height: 650px; }
 
 .three_boxes, .sidebar-left, #article, .sidebar-right {
-  background-color: #737495;
+  background-color: #A2D7D8;
   height: 150px;
   margin-left: 0; }
 
@@ -70,7 +70,7 @@ h3, h1 {
 #footer {
   clear: both;
   height: 50px;
-  background-color: #737495;
+  background-color: #A2D7D8;
   color: #fff; }
   #footer span {
     float: right;
