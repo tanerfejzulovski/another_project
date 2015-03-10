@@ -33,9 +33,11 @@ h3, h1{
 	width: 100%;
 	text-align: center;
 	height: 100px;
+	overflow: hidden;
 
 	h1{
 		color: $text-color;
+		margin: 40px;
 	}
 }
 
