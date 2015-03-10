@@ -8,18 +8,9 @@
 	</head>
 	<body>
 	<div class="container">
-		<div id="header">
-			<h1>Site Logo here</h1>
-		</div>
-		<div id="main-menu">
-			<ul>
-				<li><a href="#">Main item 1</a></li>
-				<li><a href="#">Main item 2</a></li>
-				<li><a href="#">Main item 3</a></li>
-				<li><a href="#">Main item 4</a></li>
-				<li><a href="#">Main item 5</a></li>
-			</ul>
-		</div>
+		
+	<?php include 'includes/header.php'; ?>
+
 		<div id="wrapper">			
 			<div class="sidebar-left">
 				<div class="div_content">
@@ -44,10 +35,7 @@
 			<div class="nesto">Slider here</div>
 		</div>
 
-		<footer id="footer">
-			<span>Copyright &copy; by Webski</span>
-		</footer>		
-		
+		<?php include 'includes/footer.php'; ?>				
 
 	</div>
 
