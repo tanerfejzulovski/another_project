@@ -9,7 +9,7 @@
 	<body>
 	<div class="container">
 		
-	<?php include ('../includes/header.php') ?>
+	<?php echo 'ok'; ?>
 
 		<div id="wrapper">			
 			<div class="sidebar-left">
