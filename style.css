@@ -22,7 +22,7 @@ h3, h1 {
     color: #6C6E70; }
 
 #main-menu {
-  background-color: blue;
+  background-color: #E2D893;
   height: 50px;
   margin-top: 20px; }
   #main-menu ul {
@@ -48,7 +48,7 @@ h3, h1 {
   min-height: 650px; }
 
 .three_boxes, .sidebar-left, #article, .sidebar-right {
-  background-color: blue;
+  background-color: #E2D893;
   height: 150px;
   margin-left: 0; }
 
@@ -70,16 +70,18 @@ h3, h1 {
 #footer {
   clear: both;
   height: 50px;
-  background-color: blue;
+  background-color: #E2D893;
   color: #6C6E70; }
   #footer span {
     float: right;
     margin: 15px 15px 0 0; }
 
 .nesto {
-  width: 100%;
+  width: 90%;
   height: 220;
   background: red;
-  clear: both; }
+  clear: both;
+  float: left;
+  margin: 20px 45px; }
 
 /*# sourceMappingURL=style.css.map */

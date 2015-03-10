@@ -7,7 +7,7 @@ $general-font: 'Helvetica';
 
 /*MENU VARIABLES*/
 
-$menu-background: blue;
+$menu-background: #E2D893;
 $menu-font-size: 21px;
 
 *{
@@ -94,7 +94,10 @@ h3, h1{
 }
 
 .nesto{
-	@include new-div-here(100%, 220, red);
+	@include new-div-here(90%, 220, red);
 	clear: both;
+	float: left;
+	margin: 20px 45px;
+
 };
 
