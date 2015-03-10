@@ -29,7 +29,7 @@ h3, h1 {
     list-style: none;
     padding: 0;
     float: left;
-    margin-top: 15px; }
+    margin: 15px 0 0 20px; }
   #main-menu li {
     display: inline-block;
     font-size: 21px;
