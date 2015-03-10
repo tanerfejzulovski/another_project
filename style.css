@@ -52,6 +52,9 @@ h3, h1 {
   height: 150px;
   margin-left: 0; }
 
+.div_content, .sidebar-left {
+  margin: 10px; }
+
 .sidebar-left {
   float: left;
   min-height: 430px;
