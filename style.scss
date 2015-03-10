@@ -59,7 +59,6 @@ h3, h1{
 }
 
 .sidebar-left{
-	@extend .div_content;
 	@extend .three_boxes;
 	float: left;
 	min-height: 430px;
