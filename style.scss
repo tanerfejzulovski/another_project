@@ -94,7 +94,7 @@ h3, h1{
 }
 
 .nesto{
-	@include new-div-here(90%, 220, red);
+	@include new-div-here(90%, 220, $menu-background);
 	clear: both;
 	float: left;
 	margin: 20px 45px;
