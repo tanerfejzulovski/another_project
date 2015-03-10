@@ -78,7 +78,8 @@ h3, h1 {
 
 .nesto {
   width: 100%;
-  height: 30;
-  background: red; }
+  height: 100;
+  background: red;
+  clear: both; }
 
 /*# sourceMappingURL=style.css.map */

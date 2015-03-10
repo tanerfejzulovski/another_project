@@ -94,7 +94,7 @@ h3, h1{
 }
 
 .nesto{
-	@include new-div-here(100%, 30, red);
-	
+	@include new-div-here(100%, 100, red);
+	clear: both;
 };
 
