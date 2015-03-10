@@ -94,9 +94,7 @@ h3, h1{
 }
 
 .nesto{
-	@include new-div-here(100%, 30, red);	
+	@include new-div-here(100%, 30, red);
+	
 };
 
-.eden{
-	@include new-div-here(100%, 40, blue);	
-};
